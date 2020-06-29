@@ -10,6 +10,6 @@
 </div>
 
 <div align="center">
-  <strong>Installs better MIUI Icons, neumorphic and modern, into any MIUI 12 ROM.
+  <strong>Installs neumorphic and modern icons in any MIUI 12 ROM.
 </div>
 
