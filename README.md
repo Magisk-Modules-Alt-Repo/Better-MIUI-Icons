@@ -1,35 +1,17 @@
-<h1 align="center">Magisk Module Template Extended (MMT-Ex)</h1>
+# Better MIUI Icons
 
-<div align="center">
-  <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v1.5-blue.svg?longCache=true&style=popout-square"
-      alt="Version" />
-  <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-March 27, 2020-green.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
-</div>
+Install more modern MIUI icons.
 
-<div align="center">
-  <strong>MMT Extended is the spiritual successor of Unity and makes magisk module creation easy. More details in the 
-    <a href="https://github.com/Zackptg5/MMT-Extended/wiki">wiki</a>.
-</div>
+Tested on:\
+\
+• Xiaomi.EU\
+• RevOS\
+• MMX\
+• Global MIUI 12\
+\
+It should work on any MIUI 12 ROM.
 
-<div align="center">
-  <h3>
-    <a href="https://github.com/Zackptg5/MMT-Extended">
-      Source Code
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Zackptg5/MMT-Extended-Addons">
-      Addons Repository
-    </a>
-    <span> | </span>
-    <a href="https://forum.xda-developers.com/apps/magisk/magisk-module-template-extended-mmt-ex-t4029819">
-      XDA
-    </a>
-  </h3>
-</div>
+# Disclaimer
+These icons were extracted from the MiRoom ROM, which has unfortunately shut down.\
+I have no affiliation with the Miroom team.
 
-### Usage
-- [Follow the directions here (DO NOT FORK)](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-- Then follow instructions in [Wiki](https://github.com/Zackptg5/MMT-Extended/wiki)
