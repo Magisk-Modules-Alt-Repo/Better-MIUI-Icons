@@ -1,15 +1,15 @@
-<h1 align="center">Better MIUIcons</h1>
+# Better MIUI Icons
 
-<div align="center">
-  <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v1.0-blue.svg?longCache=true&style=flat-square"
-      alt="Version" />
-  <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-May 20, 2020-orange.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
-</div>
+Install more modern MIUI icons.
 
-<div align="center">
-  <strong>Installs neumorphic and modern icons in any MIUI 12 ROM.
-</div>
+Tested on: 
+• Xiaomi.EU
+• RevOS
+• MMX
+• Global MIUI 12
+but it should work on any MIUI 12 ROM.
+
+# Disclaimer
+These icons were extracted from the MiRoom ROM, which has unfortunately shut down.
+I have no affiliation with MiRoom.
 
