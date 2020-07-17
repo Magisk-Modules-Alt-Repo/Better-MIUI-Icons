@@ -2,6 +2,8 @@
 
 Install more modern MIUI icons.
 
+# [Download](https://github.com/SpicyChair/Better-MIUI-Icons/releases/tag/release)
+
 Tested on:\
 \
 • Xiaomi.EU\
@@ -10,6 +12,7 @@ Tested on:\
 • Global MIUI 12\
 \
 It should work on any MIUI 12 ROM.
+
 
 # Disclaimer
 These icons were extracted from the MiRoom ROM, which has unfortunately shut down.\
