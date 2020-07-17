@@ -1,4 +1,4 @@
-# Better MIUI Icons
+![banner](banner.png)
 
 Install more modern MIUI icons.
 
