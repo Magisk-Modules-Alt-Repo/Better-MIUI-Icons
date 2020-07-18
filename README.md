@@ -11,10 +11,10 @@ Tested on:\
 • MMX\
 • Global MIUI 12\
 \
-It should work on any MIUI 12 ROM.
+It should work on any MIUI 12-based ROM.
 
 
 # Disclaimer
-These icons were extracted from the MiRoom ROM, which has unfortunately shut down.\
+These icons were extracted from the MiRoom ROM project, which has unfortunately shut down.\
 I have no affiliation with the Miroom team.
 
