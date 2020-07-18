@@ -1,6 +1,8 @@
 ![banner](banner.png)
 
-Install more modern MIUI icons.
+This module systemlessly installs more modern icons to /system/media/theme/miui_mod_icons.\
+The icons will be shown in the app info screen, recent apps, and stock launcher. \
+
 
 # [Download](https://github.com/SpicyChair/Better-MIUI-Icons/releases/tag/release)
 
@@ -11,7 +13,7 @@ Tested on:\
 • MMX\
 • Global MIUI 12\
 \
-It should work on any MIUI 12-based ROM.
+It should work on any MIUI 12-based ROM. MIUI 11-based ROMs might work, but is untested.
 
 
 # Disclaimer
