@@ -1,7 +1,7 @@
 ![banner](banner.png)
 
 This module systemlessly installs more modern icons to /system/media/theme/miui_mod_icons.\
-The icons will be shown in the app info screen, recent apps, and stock launcher. \
+The icons will be shown in the app info screen, recent apps, and stock launcher.
 
 
 # [Download](https://github.com/SpicyChair/Better-MIUI-Icons/releases/tag/release)
