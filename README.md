@@ -4,7 +4,7 @@ This module systemlessly installs more modern icons to /system/media/theme/miui_
 The icons will be shown in the app info screen, recent apps, and stock launcher.
 
 
-# [Download](https://github.com/SpicyChair/Better-MIUI-Icons/releases/tag/release)
+# [Download](https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/releases)
 
 Tested on:\
 \
