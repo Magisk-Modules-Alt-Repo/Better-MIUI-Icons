@@ -17,6 +17,7 @@ It should work on any MIUI 12-based ROM. MIUI 11-based ROMs might work, but is u
 
 
 # Disclaimer
-These icons were extracted from the MiRoom ROM project, which has unfortunately shut down.\
-I have no affiliation with the Miroom team.
+These icons were extracted from the MiRoom ROM project, which has unfortunately shut down.
+\
+Only the code is licensed under GPLv3. All image assets are property of the MiRoom developers.
 
