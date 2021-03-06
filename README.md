@@ -1,19 +1,15 @@
+
+# This module no longer works on the latest versions of MIUI.
+The version last tested on was EU 20.7.9.
+
+
 ![banner](banner.png)
 
 This module systemlessly installs more modern icons to /system/media/theme/miui_mod_icons.\
 The icons will be shown in the app info screen, recent apps, and stock launcher.
 
 
-# [Download](https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/releases)
-
-Tested on:\
-\
-• Xiaomi.EU\
-• RevOS\
-• MMX\
-• Global MIUI 12\
-\
-It should work on any MIUI 12-based ROM. MIUI 11-based ROMs might work, but is untested.
+[Download here](https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/releases)
 
 
 # Disclaimer
