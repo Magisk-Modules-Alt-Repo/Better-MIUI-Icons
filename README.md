@@ -1,6 +1,6 @@
 
 # This module no longer works on the latest versions of MIUI.
-The version last tested on was EU 20.7.9.
+The version last tested on was EU 20.7.9. This repository is now archived.
 
 
 ![banner](banner.png)
